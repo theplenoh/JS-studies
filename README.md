@@ -1,3 +1,3 @@
 # JS-studies
 
-My modern JS studies
+My modern JavaScript studies
